@@ -1,20 +1,10 @@
-About Me 🧐 <br>
+Outcomes
+
+<h1>About Me</h1>
+<p>I am a full stack dev student attending an awesome software engineering bootcamp at General Assembly. I have a passion for learning and displaying my creativity for the world to see. Feel free to reach out or connect with me.</p>
 <br>
-<ul>
-  <li>🌱 I’m currently learning full stack development at General Assembly</li>
-  <li>📫 How to reach me: https://linkedin.com/in/ant-tron</li>
-</ul>
-<!--
-**AntTron/AntTron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<center>
+<a href="https://linkedin.com/in/ant-tron" target="_blank"><img src="https://user-images.githubusercontent.com/102558165/162779338-58b059ec-432c-4b8d-8114-226f836ba479.jpg" height="50" width="50"></a>
 
-- 🔭 I’m currently working on ...
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</center>
