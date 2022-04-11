@@ -1,7 +1,9 @@
-About Me 🧐
-🌱 I’m currently learning full stack development at General Assembly
-📫 How to reach me: https://linkedin.com/in/ant-tron
-
+About Me 🧐 <br>
+<br>
+<ul>
+  <li>🌱 I’m currently learning full stack development at General Assembly</li>
+  <li>📫 How to reach me: https://linkedin.com/in/ant-tron</li>
+</ul>
 <!--
 **AntTron/AntTron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
