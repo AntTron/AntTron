@@ -5,6 +5,6 @@ Outcomes
 <br>
 
 <center>
-<a href="https://linkedin.com/in/ant-tron" target="_blank"><img src="https://user-images.githubusercontent.com/102558165/162779338-58b059ec-432c-4b8d-8114-226f836ba479.jpg" height="50" width="50"></a>
+<a href="https://linkedin.com/in/ant-tron" target="_blank" rel="noreferrer noopener"><img src="https://user-images.githubusercontent.com/102558165/162779338-58b059ec-432c-4b8d-8114-226f836ba479.jpg" height="50" width="50"></a>
 
 </center>
