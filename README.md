@@ -1,7 +1,7 @@
 Outcomes
 
 <h1>About Me</h1>
-<p>I am a full stack dev student attending an awesome software engineering bootcamp at General Assembly as I pivot from 15+ years in IT Support to a career in secure app dev. I have a passion for learning and displaying my creativity for the world to see. Feel free to reach out or connect with me.</p>
+<p>Learning to code while pivoting from 15+ years in IT Support to a career in secure app dev. I have a passion for learning and displaying my creativity for the world to see. Feel free to reach out or connect with me.</p>
 <br>
 
 <center>
